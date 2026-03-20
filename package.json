@@ -165,7 +165,7 @@
         "hash-base": "3.1.0",
         "postcss": "^8.3.11",
         "ripemd160": "2.0.2",
-        "readable-stream": "3.6.0",
+        "readable-stream": "3.6.2",
         "webpack": "^5.60.0",
         "webpack-cli": "^4.9.1"
     },
