@@ -152,11 +152,11 @@
         "vue3": "npm:vue@^3.2.20"
     },
     "peerDependencies": {
-        "@babel/core": "^7.15.8",
-        "@babel/plugin-proposal-object-rest-spread": "^7.15.6",
-        "@babel/plugin-syntax-dynamic-import": "^7.8.3",
-        "@babel/plugin-transform-runtime": "^7.15.8",
-        "@babel/preset-env": "^7.15.8",
+        "@babel/core": "7.16.0",
+        "@babel/plugin-proposal-object-rest-spread": "7.16.0",
+        "@babel/plugin-syntax-dynamic-import": "7.16.0",
+        "@babel/plugin-transform-runtime": "7.16.0",
+        "@babel/preset-env": "7.16.0",
         "call-bind": "1.0.2",
         "function-bind": "1.1.1",
         "get-intrinsic": "1.1.1",
